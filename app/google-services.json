@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "817996166695",
+    "project_id": "tabslayout-1c0c7",
+    "storage_bucket": "tabslayout-1c0c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817996166695:android:7eadd05d83e2d3ce3ec002",
+        "android_client_info": {
+          "package_name": "com.example.tabslayout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2MnOqvQflX3jP3_jBlPI5E0MXznQ1Few"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
